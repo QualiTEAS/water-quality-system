@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.components.tree', [])
+  angular.module('BlurAdmin.pages.monitor', [])
     .config(routeConfig)
     .config(function(){
       $.jstree.defaults.core.themes.url = true;
@@ -15,9 +15,9 @@
   /** @ngInject */
   function routeConfig($stateProvider) {
     $stateProvider
-        .state('components.tree', {
+        .state('monitor', {
           url: '/tree',
-          templateUrl: 'app/pages/components/tree/tree.html',
+          templateUrl: 'app/pages/monitor/monitor.html',
           title: 'Monitor',
           sidebarMeta: {
             order: 200,

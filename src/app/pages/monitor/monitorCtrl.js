@@ -5,11 +5,11 @@
 (function () {
   'use strict';
 
-  angular.module('BlurAdmin.pages.components.tree')
-    .controller('treeCtrl', treeCtrl);
+  angular.module('BlurAdmin.pages.monitor')
+    .controller('monitorCtrl', monitorCtrl);
 
   /** @ngInject */
-  function treeCtrl($scope, $timeout) {
+  function monitorCtrl($scope, $timeout) {
 
     $scope.ignoreChanges = false;
     var newId = 0;
