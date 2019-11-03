@@ -44,6 +44,7 @@
     "wrench": "~1.5.8"
   },
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install",
+    "aws-deploy": "aws s3 sync release/ s3://qualiteas"
   }
 }
