@@ -67,7 +67,7 @@
 
     $scope.selectNode=function(node,selected,event){
         if(selected.node.children.length===0){
-          $scope.metricsTableData.forEach((obj,key)=>{
+          $scope.metricsTableData.forEach(function(obj,key){
              obj.vol=Math.floor(Math.random()*10000)/10000;
              obj.isUp=Math.random() >= 0.5;
              if(obj.vol>0.6){

@@ -41,10 +41,10 @@
       {
         "id": "4563zxcss",
         "name": "Roy Karmakar",
-        "subject": "Lores ipsum",
+        "subject": "Investigation needed",
         "date": "2015-10-19T03:30:45",
         "important": false,
-        "body": $sce.trustAsHtml("<p>Hi, </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>"),
+        "body": $sce.trustAsHtml("<p>Hi, </p><p>Sensor 1.1 detected potential oil component, please investigate, see attached report</p>"),
         "pic": "Roy",
         "email": "petraramsey@mail.com",
         "position": "Resident Represent",
