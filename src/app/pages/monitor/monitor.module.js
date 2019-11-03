@@ -20,6 +20,7 @@
           templateUrl: 'app/pages/monitor/monitor.html',
           title: 'Monitor',
           sidebarMeta: {
+            icon:"ion-md-construct",
             order: 200,
           },
         });

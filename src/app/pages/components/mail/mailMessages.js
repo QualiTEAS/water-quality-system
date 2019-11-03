@@ -14,27 +14,27 @@
       {
         "id": "4563faass",
         "name": "Abhijit Chatterjee",
-        "subject": "Great text",
+        "subject": "Potential oil spill, needs investigation",
         "date": "2015-08-28T07:57:09",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>do you want me to send the pic of coffee in the group?</p>"),
+        "body": $sce.trustAsHtml("<p>Hi, </p><p>Potential oil spill</p>"),
         "pic": "Abhijit",
         "email": "petraramsey@mail.com",
-        "attachment": "poem.txt",
-        "position": "Great Employee",
+        "attachment": "Report.doc",
+        "position": "Monitor Staff",
         "tag": "emergency",
         "labels": ['inbox']
       },
       {
         "id": "4563fdfvd",
         "name": "divyeshkumar Patel",
-        "subject": "Lores ipsum",
+        "subject": "Report needs to be validated",
         "date": "2015-11-19T03:30:45",
         "important": false,
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><br><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ex mauris, ultrices vel lectus quis, scelerisque hendrerit ipsum. Suspendisse ullamcorper turpis neque, eget dapibus magna placerat ac. Suspendisse rhoncus ligula ac mi tempus varius ut sed lacus. Sed et commodo nulla, et placerat leo. Nam rhoncus vulputate sem non pharetra. Praesent fringilla massa in laoreet convallis. Aliquam lobortis dui a congue facilisis. Aenean dapibus semper semper. Quisque aliquam, nibh dapibus interdum condimentum, ex velit tempor tortor, at vestibulum magna leo quis leo. Morbi pulvinar varius erat ac rutrum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In hac habitasse platea dictumst.</p>" +
+        "body": $sce.trustAsHtml("<p>Hi, </p><br><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ex mauris, ultrices vel lectus quis, scelerisque hendrerit ipsum. Suspendisse ullamcorper turpis neque, eget dapibus magna placerat ac. Suspendisse rhoncus ligula ac mi tempus varius ut sed lacus. Sed et commodo nulla, et placerat leo. Nam rhoncus vulputate sem non pharetra. Praesent fringilla massa in laoreet convallis. Aliquam lobortis dui a congue facilisis. Aenean dapibus semper semper. Quisque aliquam, nibh dapibus interdum condimentum, ex velit tempor tortor, at vestibulum magna leo quis leo. Morbi pulvinar varius erat ac rutrum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In hac habitasse platea dictumst.</p>" +
           "<br><p>Cras rhoncus quam ipsum, vel dignissim nisl egestas sed. Aliquam erat volutpat. Integer eu nisl elit. Donec malesuada diam vitae tellus luctus tincidunt. Donec tempus blandit neque, rutrum egestas ipsum sagittis tempor. Curabitur volutpat ligula enim, nec vehicula purus molestie at. Sed a facilisis enim, nec molestie magna. Donec in augue non est viverra dapibus vel tempus risus. Nam porttitor purus sit amet hendrerit ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>"),
         "pic": "Patel",
         "email": "petraramsey@mail.com",
-        "position": "Great Employee",
+        "position": "Monitor Staff",
         "tag": "urgent",
         "labels": ['inbox']
       },
@@ -44,164 +44,40 @@
         "subject": "Lores ipsum",
         "date": "2015-10-19T03:30:45",
         "important": false,
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>"),
+        "body": $sce.trustAsHtml("<p>Hi, </p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>"),
         "pic": "Roy",
         "email": "petraramsey@mail.com",
-        "position": "Great Employee",
+        "position": "Resident Represent",
         "tag": "standard",
         "labels": ['sent', 'important']
       },
       {
         "id": "8955sddf",
         "name": "Xiaolong Liu",
-        "subject": "New Design",
+        "subject": "Sendor 3.1 issue",
         "date": "2015-05-05T12:59:45",
-        "body": $sce.trustAsHtml("<p>Dear officer, Consectetur adipiscing elit</p><br>" +
-          "<p>Cras rhoncus quam ipsum, vel dignissim nisl egestas sed. Aliquam erat volutpat. Integer eu nisl elit. Donec malesuada diam vitae tellus luctus tincidunt. Donec tempus blandit neque, rutrum egestas ipsum sagittis tempor. Curabitur volutpat ligula enim, nec vehicula purus molestie at. Sed a facilisis enim, nec molestie magna. Donec in augue non est viverra dapibus vel tempus risus. Nam porttitor purus sit amet hendrerit ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>"),
+        "body": $sce.trustAsHtml("<p>Hi,</p><br>" +
+          "<p>Sensor 3.1 has been investigated, all function are back to noraml now see the log attached</p>"),
         "pic": "xiaolong",
         "email": "barlowshort@mail.com",
-        "position": "Graphical designer",
-        "attachment": "design.psd",
+        "position": "Monitor Staff",
+        "attachment": "Log.doc",
         "tag": "standard",
         "labels": ['inbox']
       },
       {
         "id": "8955sdfcc",
         "name": "Ian Liao",
-        "subject": "Gift card",
+        "subject": "Report sent",
         "date": "2015-07-18T10:19:01",
         "body": $sce.trustAsHtml("<p>Dear officer, </p><br><p>Consectetur adipiscing elit, Lorem ipsum dolor sit amet</p>"),
         "pic": "Ian",
         "email": "barlowshort@mail.com",
-        "position": "Graphical designer",
+        "position": "Monitor Sfaff",
         "tag": "urgent",
         "labels": ['inbox']
-      },
-      {
-        "id": "8955asewf",
-        "name": "Nick Cat",
-        "subject": "Some news",
-        "date": "2015-09-23T03:04:10",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><br><p>Integer eu nisl elit. Donec malesuada diam vitae tellus luctus tincidunt. Donec tempus blandit neque, rutrum egestas ipsum sagittis tempor. Curabitur volutpat ligula enim, nec vehicula purus molestie at. Sed a facilisis enim, nec molestie magna. Donec in augue non est viverra dapibus vel tempus risus. Nam porttitor purus sit amet hendrerit ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>"),
-        "pic": "Nick",
-        "email": "barlowshort@mail.com",
-        "position": "Graphical designer",
-        "tag": "standard",
-        "labels": ['inbox', 'important']
-      },
-      {
-        "id": "2334uudsa",
-        "name": "Kostya Danovsky",
-        "subject": "Street Art",
-        "date": "2015-11-22T10:05:09",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>Aliquam eu facilisis eros, quis varius est.</p>" +
-          "<p>Consectetur adipiscing elit. Aliquam sodales sem in nibh pellentesque, ac dignissim mi dapibus.</p>" +
-          "<p>Lorem ipsum dolor sit amet! Nullam imperdiet justo a ipsum laoreet euismod.</p>" +
-          "<br><p>Cras tincidunt fermentum lectus, quis scelerisque lorem volutpat sed." +
-          "Sed quis orci sed nisl sagittis viverra id at mauris. Nam venenatis mi nibh. Sed fringilla mattis vehic</p>"),
-        "pic": "Kostya",
-        "email": "schwart@mail.com",
-        "position": "Technical Chef",
-        "attachment": "file.doc",
-        "tag": "normal",
-        "labels": ['inbox', 'important']
-      },
-      {
-        "id": "2334aefvv",
-        "name": "Kostya Danovsky",
-        "subject": "New product",
-        "date": "2015-06-22T06:26:10",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>Lorem ipsum dolor sit amet!</p>" +
-          "<p>Consectetur adipiscing elit. Aliquam sodales sem in nibh pellentesque, ac dignissim mi dapibus.</p>" +
-          "<p>Aliquam eu facilisis eros, quis varius est. Nullam imperdiet justo a ipsum laoreet euismod.</p>" +
-          "<br><p>Nulla facilisi. Nulla congue, arcu eget blandit lacinia, leo ante ullamcorper lectus, vel pulvinar justo ipsum vitae justo." +
-          "Cras tincidunt fermentum lectus, quis scelerisque lorem volutpat sed. Sed quis orci sed nisl sagittis viverra id at mauris. Nam venenatis mi nibh. Sed fringilla mattis vehic</p>"),
-        "pic": "Kostya",
-        "email": "schwart@mail.com",
-        "position": "Technical Chef",
-        "tag": "normal",
-        "labels": ['inbox', 'important']
-      },
-      {
-        "id": "2334cvdss",
-        "name": "Kostya Danovsky",
-        "subject": "Old product",
-        "date": "2015-06-22T06:26:10",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p>" +
-          "<p>Consectetur adipiscing elit. Aliquam sodales sem in nibh pellentesque, ac dignissim mi dapibus.</p>" +
-          "<br>"+
-          "<p>Cras tincidunt fermentum lectus, quis scelerisque lorem volutpat sed. Sed quis orci sed nisl sagittis viverra id at mauris. Nam venenatis mi nibh. Sed fringilla mattis vehic</p>"),
-        "pic": "Kostya",
-        "email": "schwart@mail.com",
-        "position": "Technical Chef",
-        "tag": "urgent",
-        "labels": ['trash']
-      },
-      {
-        "id": "8223xzxfn",
-        "name": "Andrey Hrabouski",
-        "subject": "Skype moji",
-        "date": "2015-07-16T06:47:53",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>Aliquam sodales sem in nibh pellentesque</p>" +
-          "<p>Lorem ipsum dolor I find moji in skype sit amet!.</p>"),
-        "pic": "Andrey",
-        "email": "lakeishaphillips@mail.com",
-        "position": "Mobile Developer",
-        "tag": 'normal',
-        "labels": ['trash']
-      },
-      {
-        "id": "8223sdffn",
-        "name": "Andrey Hrabouski",
-        "subject": "My App",
-        "date": "2015-06-20T07:05:02",
-        "body": $sce.trustAsHtml("<p>Dear officer, </p><p>Lorem ipsum dolor sit amet!</p>" +
-          "<p>Consectetur My Falasson App elit. Aliquam sodales sem in nibh pellentesque, ac dignissim mi dapibus.</p>"),
-        "pic": "Andrey",
-        "email": "lakeishaphillips@mail.com",
-        "position": "Mobile Developer",
-        "tag": 'normal',
-        "labels": ['spam']
-      },
-      {
-        "id": "9391xdsff",
-        "name": "Vlad Lugovsky",
-        "subject": "Cool",
-        "date": "2015-03-31T11:52:58",
-        "body": $sce.trustAsHtml("<p>Hey Vlad. </p><p>Aliquam sodales sem in nibh pellentesque</p>" +
-          "<p>Cras tincidunt fermentum lectus, quis scelerisque lorem volutpat sed.</p>"),
-        "pic": "Vlad",
-        "email": "carlsongoodman@mail.com",
-        "position": "Fullstack man",
-        "tag": "urgent",
-        "labels": ['draft']
-      },
-      {
-        "id": "8223xsdaa",
-        "name": "Andrey Hrabouski",
-        "subject": "Car rent",
-        "date": "2015-02-25T10:58:58",
-        "body": $sce.trustAsHtml("<p>Hey Andrey. </p>" +
-          "<p>Cras tincidunt fermentum lectus, quis scelerisque lorem volutpat sed. Sed quis orci sed nisl sagittis viverra id at mauris. Nam venenatis mi nibh. Sed fringilla mattis vehic</p>"),
-        "pic": "Andrey",
-        "email": "lakeishaphillips@mail.com",
-        "position": "Mobile Developer",
-        "tag": "normal",
-        "labels": ['draft']
-      },
-      {
-        "id": "9391xdsff",
-        "name": "Vlad Lugovsky",
-        "subject": "What next",
-        "date": "2015-03-31T11:52:58",
-        "body": $sce.trustAsHtml("<p>Hey Vlad. </p><p>Lorem ipsum dolor sit amet!</p>" +
-          "<p>Esse esse labore tempor ullamco ullamco. Id veniam laborum c.</p>"),
-        "pic": "Vlad",
-        "email": "carlsongoodman@mail.com",
-        "position": "Fullstack man",
-        "tag": "urgent",
-        "labels": ['sent']
       }
+    
     ].sort(function (a, b) {
         if (a.date > b.date) return 1;
         if (a.date < b.date) return -1;

@@ -21,7 +21,7 @@
           abstract: true,
           title: 'Notifications',
           sidebarMeta: {
-            icon: 'ion-gear-a',
+            icon: 'ion-ios-contacts',
             order: 100,
           },
         });
